@@ -3541,6 +3541,17 @@ GenF4.menu.pnum.BLACKPILL_F411CE.build.variant=STM32F4xx/F411C(C-E)(U-Y)
 GenF4.menu.pnum.BLACKPILL_F411CE.build.variant_h=variant_{build.board}.h
 GenF4.menu.pnum.BLACKPILL_F411CE.build.peripheral_pins=-DCUSTOM_PERIPHERAL_PINS
 
+# GEP-12A-F4
+# https://geprc.com/product/gep-12a-f4-flight-controller-12a-esc
+GenF4.menu.pnum.GEPRC_F411CE=GEPRC F411CE
+GenF4.menu.pnum.GEPRC_F411CE.upload.maximum_size=524288
+GenF4.menu.pnum.GEPRC_F411CE.upload.maximum_data_size=131072
+GenF4.menu.pnum.GEPRC_F411CE.build.board=GEPRC_F411CE
+GenF4.menu.pnum.GEPRC_F411CE.build.product_line=STM32F411xE
+GenF4.menu.pnum.GEPRC_F411CE.build.variant=STM32F4xx/F411C(C-E)(U-Y)
+GenF4.menu.pnum.GEPRC_F411CE.build.variant_h=variant_{build.board}.h
+GenF4.menu.pnum.GEPRC_F411CE.build.peripheral_pins=-DCUSTOM_PERIPHERAL_PINS
+
 # Core board F401RCT6
 # https://stm32-base.org/boards/STM32F401RCT6-STM32F-Core-Board
 GenF4.menu.pnum.CoreBoard_F401RC=Core board F401RCT6
